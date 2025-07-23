@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Sodiq 👋
 
-💻 **Full Stack Developer** | React | .NET | Flutter  
+💻 **Full Stack Developer** | Node | Django | React | .NET | Flutter  
 🚀 Building amazing web & mobile apps
 
 ---
@@ -29,17 +29,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Featured Projects
-- [Resume Builder](https://github.com/yourusername/resume-builder) – A React + Next.js resume builder.
-- [Flutter Todo App](https://github.com/yourusername/flutter-todo) – A modern task management app.
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/balogun-sodiq-55781921b)
