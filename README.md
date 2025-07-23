@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/balogun-sodiq-55781921b)
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)](https://balogunsodiq.vercel.app/)
+
+
