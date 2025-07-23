@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/balogun-sodiq-55781921b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)]([https://yourportfolio.com](https://balogunsodiq.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)]([https://balogunsodiq.vercel.app]
